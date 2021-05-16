@@ -1,5 +1,5 @@
 
-# Module
+# Configuration SaltState for Wireguard on Ubuntu
 
 _Configuration of a new Wireguard VPN client on Ubuntu 20.04 using a Salt-state_
 
