@@ -1,5 +1,5 @@
 
-# Configuration SaltState for Wireguard on Ubuntu
+# SaltState for Wireguard configuration on Ubuntu
 
 ![image](https://user-images.githubusercontent.com/71032160/118408911-7cc89c80-b690-11eb-90ee-da93e0644bad.png)
 
