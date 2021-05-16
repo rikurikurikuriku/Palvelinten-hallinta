@@ -1,5 +1,3 @@
-# Palvelinten-hallinta
-ICT4TN022-3011 - Kevät 2021
 
 # Module
 
