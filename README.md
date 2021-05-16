@@ -1,6 +1,9 @@
 
 # Configuration SaltState for Wireguard on Ubuntu
 
+![image](https://user-images.githubusercontent.com/71032160/118408911-7cc89c80-b690-11eb-90ee-da93e0644bad.png)
+
+
 _Configuration of a new Wireguard VPN client on Ubuntu 20.04 using a Salt-state_
 
 
